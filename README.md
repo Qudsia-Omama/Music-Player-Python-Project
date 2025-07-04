@@ -18,7 +18,7 @@ This application mimics a basic music player where users can load local songs, p
 ---
 
 ## Mentor
-Sir Tauseef 
+Sir Tauseef Mubeen ( IEEE SSUET Student Branch Counselor at SIR SYED UNIVERSITY OF ENGINEERING AND TECHNOLOGY )
 
 ---
 
