@@ -17,6 +17,11 @@ This application mimics a basic music player where users can load local songs, p
 
 ---
 
+## Mentor
+Sir Tauseef 
+
+---
+
 ## 📌 Project Description
 
 The **Simple Music Player** project is designed to:
@@ -125,6 +130,5 @@ pip install pygame
 
 * [Python Docs](https://docs.python.org/3/)
 * [Pygame Documentation](https://www.pygame.org/docs/)
-* University Instructors of SE-102-L for guidance and support
 
 ---
