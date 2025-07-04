@@ -10,8 +10,8 @@ This application mimics a basic music player where users can load local songs, p
 
 | Name           | Roll No          | Section |
 |----------------|------------------|---------|
-| Qudsia Omama (GL)   | 2022F-BSE-002    | A       |
-| Aisha Sharif   | 2022F-BSE-026    | A       |
+| Qudsia Omama (Group Leader)   | 2022F-BSE-002    | A       |
+| Ayesha Sharif   | 2022F-BSE-026    | A       |
 | Sunena         | 2022F-BSE-044    | A       |
 | Zaid Khan      | 2022F-BSE-001    | A       |
 
